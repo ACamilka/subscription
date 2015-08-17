@@ -1,0 +1,2 @@
+pika==0.9.14
+fake-factory==0.5.2
